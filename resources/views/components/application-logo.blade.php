@@ -1,0 +1,1 @@
+<img src="/storage/mortgagerefused.svg" class="h-8 sm:h-12 lg:h-10 xl:h-12 w-full sm:mt-4 xl:mt-2" />
