@@ -9,6 +9,10 @@ use App\Models\PageImage;
 use App\Models\Testimonial;
 use Intervention\Image\Facades\Image;
 
+/*
+* Creating and editin page content for the application front end
+*/
+
 class PagesController extends Controller
 {
     public function add() {
