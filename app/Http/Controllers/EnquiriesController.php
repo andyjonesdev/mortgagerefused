@@ -10,6 +10,10 @@ use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Response;
 // use Spatie\Permission\Models\Role;
 
+/*
+* Managing the brokers list, viewing, updating, assigning brokers
+*/
+
 class EnquiriesController extends Controller
 {
     public function enquiries_list($filter_status,$filter_broker) {
