@@ -7,6 +7,10 @@ use App\Models\Post;
 use App\Models\PostImage;
 use Livewire\WithFileUploads;
 
+/*
+* Livewire component to upload an image to a blog post
+*/
+
 class AddImagePost extends Component
 {
     use WithFileUploads;
