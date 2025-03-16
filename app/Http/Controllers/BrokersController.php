@@ -19,6 +19,10 @@ use Spatie\Permission\Models\Permission;
 use App\Mail\NewBroker;
 use Illuminate\Support\Facades\Mail;
 
+/*
+* Functionality to add/edit/delete brokers on the main admin dashboard
+*/
+
 class BrokersController extends Controller
 {
     public function add(Request $req) {
